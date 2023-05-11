@@ -1,2 +1,2 @@
 # Power-BI-Portfolio
-Power BI Projects
+Data Analytics Projects with Power BI 
